@@ -1,0 +1,36 @@
+                                  POISED STRUCTURAL ENGINEERING UPDATE 1
+                                  --------------------------------------
+A NEW PROJECT HAS BEEN UPDATED SUCCESSFULLY...!!!
+Date And Time: 2021-11-01 18:03 pm
+----------------------------------------------------------------------------------------------------------------
+PROJECT UPDATED USING THE SELECTED PROJECT NUMBER:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS:
+----------------
+Project Name: Project X
+Project Number: 1006
+Building Type: Apartment
+Physical Address: 12160 Kate Drive, Los Altos Hills, CA, 94022, United States Of America, Usa
+EFR Number: 106
+Total Fee Charged: $14,998,000.00
+Total Amount Paid: $13,887,000.00
+Deadline For The Project: 28-10-2021
+----------------------------------------------------------------------------------------------------------------                                    
+                                  POISED STRUCTURAL ENGINEERING UPDATE 2
+                                  --------------------------------------
+A NEW PROJECT HAS BEEN UPDATED SUCCESSFULLY...!!!
+Date And Time: 2021-11-01 22:58 pm
+----------------------------------------------------------------------------------------------------------------
+PROJECT UPDATED USING THE SELECTED PROJECT NUMBER:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS:
+----------------
+Project Name: Project 012
+Project Number: 1008
+Building Type: Apartment
+Physical Address: 895 Park Avenue, 6/7A, New York, NY, 10075, United States Of America, Usa
+EFR Number: 108
+Total Fee Charged: $15,000,000.00
+Total Amount Paid: $14,000,000.00
+Deadline For The Project: 01-11-2021
+----------------------------------------------------------------------------------------------------------------

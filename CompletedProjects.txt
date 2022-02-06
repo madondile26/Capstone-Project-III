@@ -1,0 +1,129 @@
+                                POISED STRUCTURAL ENGINEERING FINALIZATION 1
+                                --------------------------------------------
+
+A NEW PROJECT HAS BEEN FINALISED SUCCESSFULLY...!!!
+Date and time: 2021-10-31 03:31 am
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS:
+----------------
+Project Name: Apartment Ntombela
+Project Number: 1001
+Building Type: Apartment
+Physical Address: 90 Jule Pond Drive, Southampton, New York, 11968, United States Of America, Usa
+EFR Number: 101
+Total Fee Charged: $145,000,000.00
+Total Amount Paid: $134,000,000.00
+Deadline For The Project: 10-10-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS:
+------------------
+Name: Oville
+Surname: Wright
+Telephone Number: 5558787878
+Email Address: oville_write20@gmail.com
+Physical Address: Lily Pond Oceanfront Estate, East Hampton, New York, 11937, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS:
+-------------------
+Name: Rogelio
+Surname: Holloway
+Telephone Number: 5556798789
+Email Address: rogelio_holloway21@gmail.com
+Physical Address: 27930 Pacific Coast Highway, Malibu, CA, 90265, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS:
+-----------------
+Name: Nelson
+Surname: Ntombela
+Telephone Number: 5556767677
+Email Address: nelson_ntombela26@gmail.com
+Physical Address: 16401 Calle Feliz, Rancho Santa Fe, CA, 92067, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------                                 
+                                POISED STRUCTURAL ENGINEERING FINALIZATION 2
+                                --------------------------------------------
+
+A NEW PROJECT HAS BEEN FINALISED SUCCESSFULLY...!!!
+Date and time: 2021-11-01 18:03 pm
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS:
+----------------
+Project Name: Project X
+Project Number: 1006
+Building Type: Apartment
+Physical Address: 1 Island Vista, Newport Beach, CA, 92657, United States Of America, Usa
+EFR Number: 106
+Total Fee Charged: $14,998,000.00
+Total Amount Paid: $13,887,000.00
+Deadline For The Project: 01-11-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS:
+------------------
+Name: Shelia
+Surname: Harrison
+Telephone Number: 5554647382
+Email Address: shelia_harrison31@gmail.com
+Physical Address: 120 Montecito Ranch Ln, Summerland, CA, 93067, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS:
+-------------------
+Name: Ignacio
+Surname: James
+Telephone Number: 5556373738
+Email Address: ignacio_james30@gmail.com
+Physical Address: 610 Los Trancos Rd, Portola Valley, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS:
+-----------------
+Name: Jerry
+Surname: Keller
+Telephone Number: 5554323212
+Email Address: jerry_keller32@gmail.com
+Physical Address: 7000 Fisher Island Dr, Miami Beach, FI, 33209, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+                                POISED STRUCTURAL ENGINEERING FINALIZATION 3
+                                --------------------------------------------
+
+A NEW PROJECT HAS BEEN FINALISED SUCCESSFULLY...!!!
+Date and time: 2021-11-01 22:58 pm
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS:
+----------------
+Project Name: Project 012
+Project Number: 1008
+Building Type: Apartment
+Physical Address: 1707 SW SCHAEFFER RD, West Linn, OR, 97068, United States Of America, Usa
+EFR Number: 108
+Total Fee Charged: $15,000,000.00
+Total Amount Paid: $14,000,000.00
+Deadline For The Project: 01-11-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS:
+------------------
+Name: Danny
+Surname: Jensen
+Telephone Number: 5556637377
+Email Address: danny_jensen34@gmail.com
+Physical Address: 6055 Rolling Rd S, Scottville, VA, 24590, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS:
+-------------------
+Name: Sabrina
+Surname: Garcia
+Telephone Number: 5556767876
+Email Address: sabrina_garcia35@gmail.com
+Physical Address: Travis Teton Ranch, Alta, WY, 83414, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS:
+-----------------
+Name: Winifred 
+Surname: Wood
+Telephone Number: 5557373777
+Email Address: winifred_wood36@gmail.com
+Physical Address: 895 Park Avenue, 6/7A, New York, NY, 10075, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------

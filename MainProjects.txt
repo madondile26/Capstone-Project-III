@@ -1,0 +1,240 @@
+                                        POISED STRUCTURAL ENGINEERING 1
+                                        -------------------------------
+
+NEW PROJECTS HAVE BEEN ADDED SUCCESSFULLY...!!!
+Number of projects: 3
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM # 1(Finalised):
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS # 1:
+--------------------
+Project Name: Apartment Ntombela
+Project Number: 1001
+Building Type: Apartment
+Physical Address: 90 Jule Pond Drive, Southampton, New York, 11968, United States Of America, USA
+EFR Number: 101
+Total Fee Charged: $145,000,000.00
+Total Amount Paid: $134,000,000.00
+Deadline For The Project: 10-10-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS # 1:
+----------------------
+Name: Oville
+Surname: Wright
+Telephone Number: 5558787878
+Email Address: oville_write20@gmail.com
+Physical Address: Lily Pond Oceanfront Estate, East Hampton, New York, 11937, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS # 1:
+-----------------------
+Name: Rogelio
+Surname: Holloway
+Telephone Number: 5556798789
+Email Address: rogelio_holloway21@gmail.com
+Physical Address: 27930 Pacific Coast Highway, Malibu, CA, 90265, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS # 1:
+---------------------
+Name: Nelson
+Surname: Ntombela
+Telephone Number: 5556767677
+Email Address: nelson_ntombela26@gmail.com
+Physical Address: 16401 Calle Feliz, Rancho Santa Fe, CA, 92067, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM # 2:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS # 2:
+--------------------
+Project Name: House Khangeka
+Project Number: 1002
+Building Type: House
+Physical Address: 160 Ox Pasture Road, Southampton, New York, 11968, United States Of America, USA
+EFR Number: 102
+Total Fee Charged: $69,950,000.00
+Total Amount Paid: $58,840,000.00
+Deadline For The Project: 11-10-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS # 2:
+----------------------
+Name: Marjorie
+Surname: Figueroa
+Telephone Number: 5556768909
+Email Address: marjorie_figueroa29@gmail.com
+Physical Address: 7979 E Boulevard Dr, Alexandria, VA, 22308, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS # 2:
+-----------------------
+Name: Debra
+Surname: Garner
+Telephone Number: 5556333478
+Email Address: debra_garner23@gmail.com
+Physical Address: 36 East 63rd St, New York, NY, 10065, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS # 2:
+---------------------
+Name: Nokthula
+Surname: Khangeka
+Telephone Number: 5558787888
+Email Address: nokthula_khangeka24@gmail.com
+Physical Address: 995 Fifth Avenue, PH, New York, NY, 10028, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM # 3:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS # 3:
+--------------------
+Project Name: Store Christensen
+Project Number: 1003
+Building Type: Store
+Physical Address: 111 West 57th Street, Central Park South, New York, 10019, United States Of America, USA
+EFR Number: 103
+Total Fee Charged: $66,000,000.00
+Total Amount Paid: $48,249,300.00
+Deadline For The Project: 15-10-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS # 3:
+----------------------
+Name: Tiffany
+Surname: Peters
+Telephone Number: 5556789898
+Email Address: tiffany_peters25@gmail.com
+Physical Address: 1201 Tower Grove Drive, Beverly Hills, CA, 90210, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS # 3:
+-----------------------
+Name: Hugh
+Surname: Foster
+Telephone Number: 5556767888
+Email Address: hugh_foster28@gmail.com
+Physical Address: 1109 Calle Vista Drive, Beverly Hills, CA, 90210, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS # 3:
+---------------------
+Name: Darren
+Surname: Christensen
+Telephone Number: 5556767688
+Email Address: darren_christensen29@gmail.com
+Physical Address: Fifth Avenue, Midtown Manhattan, New York, 10019, United States Of America, USA
+----------------------------------------------------------------------------------------------------------------                                          
+                                        POISED STRUCTURAL ENGINEERING 2
+                                        -------------------------------
+
+NEW PROJECTS HAVE BEEN ADDED SUCCESSFULLY...!!!
+Number of projects: 2
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM # 1(Finalised):
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS # 1:
+--------------------
+Project Name: Project 007
+Project Number: 1004
+Building Type: Apartment
+Physical Address: 17875 Collins Ave, Sunny Isles Beach, FI, 33160, United States Of America, Usa
+EFR Number: 104
+Total Fee Charged: $59,000,000.00
+Total Amount Paid: $43,131,950.00
+Deadline For The Project: 31-10-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS # 1:
+----------------------
+Name: Shelia
+Surname: Harrison
+Telephone Number: 5554647382
+Email Address: shelia_harrison31@gmail.com
+Physical Address: 120 Montecito Ranch Ln, Summerland, CA, 93067, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS # 1:
+-----------------------
+Name: Ignacio
+Surname: James
+Telephone Number: 5556373738
+Email Address: ignacio_james30@gmail.com
+Physical Address: 610 Los Trancos Rd, Portola Valley, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS # 1:
+---------------------
+Name: Jerry
+Surname: Keller
+Telephone Number: 5554323212
+Email Address: jerry_keller32@gmail.com
+Physical Address: 7000 Fisher Island Dr, Miami Beach, FI, 33209, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM # 2:
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS # 2:
+--------------------
+Project Name: Project 008
+Project Number: 1005
+Building Type: House
+Physical Address: 3509 Lost Creek Boulevard, Austin, Texas, 78735, United States Of America, Usa
+EFR Number: 105
+Total Fee Charged: $67,000,000.00
+Total Amount Paid: $76,564,443.00
+Deadline For The Project: 29-10-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS # 2:
+----------------------
+Name: Frankie
+Surname: Cobb
+Telephone Number: 5554477878
+Email Address: frankie_cobb32@gmail.com
+Physical Address: 18968 Carriger Rd,Sonoma, CA, 95476, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS # 2:
+-----------------------
+Name: Clayton 
+Surname: Thomas
+Telephone Number: 5553232413
+Email Address: clayton_thomas33@gmail.com
+Physical Address: 230 Long Neck Point Road, Darien, CT, 06820, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS # 2:
+---------------------
+Name: Laura
+Surname: Reyes
+Telephone Number: 5556767787
+Email Address: laura_reyes34@gmail.com
+Physical Address: 12160 Kate Drive, Los Altos Hills, CA, 94022, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+                                        POISED STRUCTURAL ENGINEERING 3
+                                        -------------------------------
+
+NEW PROJECTS HAVE BEEN ADDED SUCCESSFULLY...!!!
+Number of projects: 1
+----------------------------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT SYSTEM # 1(Finalised):
+----------------------------------------------------------------------------------------------------------------
+PROJECT DETAILS # 1:
+--------------------
+Project Name: Project 009
+Project Number: 1007
+Building Type: Store
+Physical Address: 1 Island Vista, Newport Beach, CA, 92657, United States Of America, Usa
+EFR Number: 107
+Total Fee Charged: $14,998,000.00
+Total Amount Paid: $13,887,000.00
+Deadline For The Project: 01-11-2021
+----------------------------------------------------------------------------------------------------------------
+ARCHITECT DETAILS # 1:
+----------------------
+Name: Danny
+Surname: Jensen
+Telephone Number: 5556637377
+Email Address: danny_jensen34@gmail.com
+Physical Address: 6055 Rolling Rd S, Scottville, VA, 24590, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CONTRACTOR DETAILS # 1:
+-----------------------
+Name: Sabrina
+Surname: Garcia
+Telephone Number: 5556767876
+Email Address: sabrina_garcia35@gmail.com
+Physical Address: Travis Teton Ranch, Alta, WY, 83414, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
+CUSTOMER DETAILS # 1:
+---------------------
+Name: Winifred 
+Surname: Wood
+Telephone Number: 5557373777
+Email Address: winifred_wood36@gmail.com
+Physical Address: 895 Park Avenue, 6/7A, New York, NY, 10075, United States Of America, Usa
+----------------------------------------------------------------------------------------------------------------
